@@ -1,0 +1,9 @@
+{
+	"name": "azure-0709",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e9916161-00eb-4f63-90ff-bc1b5dadf13c",
+		"tenantId": "727bcd89-3431-4308-88b7-521b5257c150"
+	}
+}
